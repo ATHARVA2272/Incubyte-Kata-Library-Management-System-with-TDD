@@ -9,7 +9,7 @@ This project is a simple *Library Management System* written in Java. The system
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/Incubyte-Kata-Library-Management-System-with-TDD.git
+1. Clone the repository: git clone https://github.com/ATHARVA2272/Incubyte-Kata-Library-Management-System-with-TDD.git
 2. Install any java interpretor to run this project. (like: Intellij, Ecllipse, Netbeans).
 
 ## Features
